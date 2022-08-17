@@ -1,0 +1,10 @@
+Talk with the developers & customers
+Understand your applicationfrom the developers:
+What type of language:java,NodeJS,Python,Go.....
+What is the compiler:Maven,Gradle,npm (NodeJS),pip(Python)
+Test the application locally
+Does the application needs a database?
+How to application is talking with the database?(username,password,host)
+How do we call the username,the password and the host of database?
+Do we need a volume?
+How to mount that volume?
